@@ -15,6 +15,8 @@ public class Week02LabHelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        int num = 2;
+        System.out.println("Hello World! This is my Week " + num + " Lab assignment.");
     }
     
 }
